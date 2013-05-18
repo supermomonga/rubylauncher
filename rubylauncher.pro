@@ -22,3 +22,6 @@ HEADERS  += \
 
 FORMS    += mainwindow.ui \
     updatedialog.ui
+
+OTHER_FILES += \
+    README.mkd

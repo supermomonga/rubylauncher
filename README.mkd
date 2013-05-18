@@ -1,0 +1,17 @@
+# The rubylauncher
+
+## What is this?
+
+The rubylauncher makes you easy to package your ruby script for windows.
+
+## Concept
+
+* Easy to package
+* Easy to update
+  * rubylauncher take care of version check and update script
+* Easy to run
+  * User need not to install ruby interpreter to run the package you made.
+* No encrypt
+  * rubylauncher don't encrypt your ruby script.
+* No Virus detection
+  * rubylauncher package will not expand any temporary files, so the anti-virus software doesn't detect ruby interpreter again and again(maybe only once.).
