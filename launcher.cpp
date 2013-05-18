@@ -11,3 +11,9 @@ QDir Launcher::appdir(){
 #endif
     return dir;
 }
+
+void Launcher::initalize(){
+    //make config file if not exists.
+
+    //put rubyw.exe binary file from resource file if not exists.
+}

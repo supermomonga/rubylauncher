@@ -7,6 +7,7 @@ class Launcher
 public:
     Launcher();
     QDir appdir();
+    void initalize();
 };
 
 #endif // LAUNCHER_H
