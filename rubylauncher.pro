@@ -20,8 +20,7 @@ HEADERS  += \
     launcher.h \
     updatedialog.h
 
-FORMS    += mainwindow.ui \
-    updatedialog.ui
+FORMS    += updatedialog.ui
 
 OTHER_FILES += \
     README.mkd
