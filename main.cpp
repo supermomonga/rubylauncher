@@ -1,4 +1,3 @@
-#include "mainwindow.h"
 #include "launcher.h"
 #include <QApplication>
 #include <QDir>
